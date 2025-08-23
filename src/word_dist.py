@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from utils import tokenize
 
 TEXT_PATH = "src/data/text8"
-SAVE_DIR = "docs"
+SAVE_DIR = "analysis"
 
 # Load text8 (downloaded separately)
 text8_path = Path(TEXT_PATH)
