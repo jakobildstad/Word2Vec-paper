@@ -3,13 +3,16 @@ from pathlib import Path
 import numpy as np
 import matplotlib.pyplot as plt
 
+from utils import tokenize
+
 TEXT_PATH = "src/data/text8"
 SAVE_DIR = "docs"
 
 # Load text8 (downloaded separately)
 text8_path = Path(TEXT_PATH)
 print("Loading corpus...")
-tokens = text8_path.read_text().strip().split()
+text = text8_path.read_text()
+tokens = tokenize(text)
 
 # Count word frequencies
 counts = Counter(tokens)

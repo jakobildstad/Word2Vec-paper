@@ -1,0 +1,7 @@
+5. Putting it all together
+	1.	Tokenize corpus.
+	2.	Build vocab → stoi, itos, counts.
+	3.	Subsample tokens to shrink sequence length.
+	4.	Generate skip-gram pairs (positive examples).
+	5.	For each batch of pairs, sample negatives using f^{0.75}.
+	6.	Train embeddings with the SGNS loss.
