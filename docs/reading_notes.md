@@ -45,3 +45,16 @@ A trick to make training more efficient - instead of computing softmax over the 
 
 This trains the model to assosiate each center word to the surrounding context words, and NOT assosiate the center word with the random (negative) words. 
 Forces words with similar usage to have similar embeddings. 
+
+
+
+### Why two embedding matrices in the training?
+
+In other words - why two embeddings for each word based on if its the center or a context word?
+"""
+Why two matrices help
+	•	If “cat” is the center, we only touch in[cat].
+	•	If “cat” is the context, we only touch out[cat].
+	•	The two representations can specialize to their roles.
+"""
+such that words being used as negative samples for other words will not affect their embeddings (in / center) that will be used in inference. 
