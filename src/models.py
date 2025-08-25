@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 def sgns_loss(pos_score, neg_score):
-    return -F.logsigmoid(pos_score).mean() - F.logsigmoid(-neg_score).mean()
+    return -(F.logsigmoid(pos_score).mean() + F.logsigmoid(-neg_score).sum(dim=1).mean())
 
 class SkipGramNS(nn.Module): # Skip-gram negative sampling (sgns)
     def __init__(self, vocab_size, embedding_dim):

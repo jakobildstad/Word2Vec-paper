@@ -22,6 +22,16 @@ class NegativeSampler:
 class SkipGramDataset(Dataset):
     def __init__(self, ids_path="src/artifacts/text8_ids.npy", vocab_counts=None, 
                  max_window=5, num_negatives=5):
+        """
+        SkipGramDataset is a PyTorch Dataset for the Skip-gram model.
+        It generates training pairs (center, context) from the input text.
+
+        args:
+            ids_path (str): Path to the numpy array of token IDs.
+            vocab_counts (dict): Vocabulary word counts for negative sampling.
+            max_window (int): Maximum context window size.
+            num_negatives (int): Number of negative samples per context word.
+        """
         self.ids = np.load(ids_path).astype(np.int64)
         self.max_window = max_window
         self.num_negatives = num_negatives
@@ -29,10 +39,14 @@ class SkipGramDataset(Dataset):
         self.pairs = self._generate_pairs()
 
     def _generate_pairs(self):
+        """
+        Generate (center, context) pairs from the input text.
+        center is the given word, while context are the surrounding words. 
+        """
         pairs = []
         n = len(self.ids)
         for i, center in enumerate(self.ids):
-            w = random.randint(1, self.max_window)
+            w = random.randint(1, self.max_window) # Random window size for robustness
             left, right = max(0, i-w), min(n, i+w+1)
             for j in range(left, right):
                 if j == i: 
