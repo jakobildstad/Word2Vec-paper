@@ -18,8 +18,8 @@ E number of epochs, T number of trianing words (tokens), Q training complexity (
 
 ### Tokenization 
 In the word2vec (2013) tokenizztion is primitive, using lower case words as the tokens. 
-Importqant to keep only words - no punctation etc. 
-Drop rare words (e.g. first nouns and concatinated long words) to make training more efficient. 
+Importqant to keep only words - no punctuation etc. 
+Drop rare words (e.g. first nouns and concatinated long words) to make training more efficient with a min_count. 
 
 Later research has made modern LLM's use subword tokenization (Byte pair encoding or SentencePiece algorithms) because it reduces vocab size (makes the embedding matrices much smaller) and handles rare words better, in addition to handling punctuation.
 
