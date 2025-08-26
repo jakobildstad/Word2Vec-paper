@@ -17,7 +17,7 @@ reading notes with intuition and explanations behind the methods used lay in doc
 - batch_size = 1024
 - Vocab size (after min_count): 47134
 
-### Assosiations - 10 closest vectors:
+### Assosiations - 10 closest vectors (semantic):
 - king → ['kings', 'montferrat', 'vii', 'throne', 'crowned', 'iii', 'succeeded', 'conqueror', 'reigned','queen']
 - paris → ['seine', 'montparnasse', 'france', 'cimeti', 'lachaise', 'eug', 'bruxelles', 'moderne', 'libert', 'sainte']
 - computer → ['computing', 'computers', 'hardware', 'software', 'microcomputer', 'interfaces', 'interface', 'devices', 'graphics', 'calculator']
@@ -30,11 +30,13 @@ reading notes with intuition and explanations behind the methods used lay in doc
 - big → ['bang', 'scooby', 'boogie', 'lebowski', 'bb', 'dicke', 'uh', 'wanna', 'maybe', 'bubbles']
 small → ['smaller', 'large', 'larger', 'dense', 'well', 'especially', 'size', 'sized', 'very', 'amounts']
 
-### Analogies:
+### Analogies (syntactic):
 - kings - king + queen → ['regnant', 'monarch', 'tanistry', 'glastonbury', 'monarchs'] (FAIL)
 - smaller - small + big → ['boogie', 'bang', 'bb', 'reggaeton', 'feelgood'] (FAIL)
 - cars - car + truck → ['trucks', 'vans', 'vehicles', 'hearses', 'tractors'] (CORRECT)
 - bikes - bike + town → ['city', 'borough', 'wealthy', 'dundas', 'norwich'] (FAIL)
+
+Note: word level tokenization in addition to text8 dataset being small weaken morphology (Morphology is the study of how words are formed from smaller meaningful pieces (morphemes).)
 
 ### Training loss
 ![Training Loss](src/artifacts/training_loss.png)
