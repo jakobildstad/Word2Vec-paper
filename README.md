@@ -10,12 +10,12 @@ reading notes with intuition and explanations behind the methods used lay in doc
 ![Word freq](src/artifacts/word_freq_dist.png)
 
 ## Results Skip-Gram
-K (num_negatives) = 10
-steps 100k (6-7 hrs on cpu macbook pro m3)
-lr (adam) = 0.002
-max_window = 5
-batch_size = 1024
-Vocab size (after min_count): 47134
+- K (num_negatives) = 10
+- steps 100k (6-7 hrs on cpu macbook pro m3)
+- lr (adam) = 0.002
+- max_window = 5
+- batch_size = 1024
+- Vocab size (after min_count): 47134
 
 ### Assosiations - 10 closest vectors:
 - king → ['kings', 'montferrat', 'vii', 'throne', 'crowned', 'iii', 'succeeded', 'conqueror', 'reigned','queen']
@@ -31,10 +31,10 @@ Vocab size (after min_count): 47134
 small → ['smaller', 'large', 'larger', 'dense', 'well', 'especially', 'size', 'sized', 'very', 'amounts']
 
 ### Analogies:
-kings - king + queen → ['regnant', 'monarch', 'tanistry', 'glastonbury', 'monarchs'] (FAIL)
-smaller - small + big → ['boogie', 'bang', 'bb', 'reggaeton', 'feelgood'] (FAIL)
-cars - car + truck → ['trucks', 'vans', 'vehicles', 'hearses', 'tractors'] (CORRECT)
-bikes - bike + town → ['city', 'borough', 'wealthy', 'dundas', 'norwich'] (FAIL)
+- kings - king + queen → ['regnant', 'monarch', 'tanistry', 'glastonbury', 'monarchs'] (FAIL)
+- smaller - small + big → ['boogie', 'bang', 'bb', 'reggaeton', 'feelgood'] (FAIL)
+- cars - car + truck → ['trucks', 'vans', 'vehicles', 'hearses', 'tractors'] (CORRECT)
+- bikes - bike + town → ['city', 'borough', 'wealthy', 'dundas', 'norwich'] (FAIL)
 
 ### Training loss
 ![Training Loss](src/artifacts/training_loss.png)
