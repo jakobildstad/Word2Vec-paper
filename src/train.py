@@ -53,8 +53,13 @@ def train_skipgram(model, data_loader, lr=0.001, steps=None, device="cpu", log_e
         if step % log_every == 0:
             avg_loss = total/n
             losses.append(avg_loss)
-            plot_losses(losses, out_path="src/artifacts/training_loss.png")
+            plot_losses(losses, out_path="src/artifacts/training_loss.png", mult=log_every)
             pbar.set_postfix({"loss": f"{avg_loss:.4f}"})
+            if log_file is not None:
+                with open(log_file, "a") as f:
+                    f.write(f"\nStep {step}:\n")
+                    f.write(f"Loss: {avg_loss:.4f}\n")
+
             total, n = 0.0, 0
         
         # Evaluate nearest neighbors every 2000 steps
@@ -69,10 +74,13 @@ def train_skipgram(model, data_loader, lr=0.001, steps=None, device="cpu", log_e
                 
                 # Log nearest neighbors
                 with open(log_file, "a") as f:
+                    f.write("\n" + "="*20 + "\n")
                     f.write(f"\nStep {step}:\n")
                     for word in ["king", "paris", "computer"]:
                         neighbors = nearest(word, E, stoi, itos, k=5)
                         f.write(f"{word} → {neighbors}\n")
+                    f.write("\n" + "="*20 + "\n")
+
             model.train()
     
     pbar.close()
@@ -115,7 +123,7 @@ if __name__ == "__main__":
         f.write("Word2Vec Training Log\n")
         f.write("=" * 30 + "\n")
     
-    model, losses = train_skipgram(model, dl, lr=0.002, steps=50000, device=device, 
+    model, losses = train_skipgram(model, dl, lr=0.002, steps=100000, device=device, 
                                    log_every=200, itos=itos, log_file=log_file)
 
     # Save vectors for inference

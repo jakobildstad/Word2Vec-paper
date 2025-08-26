@@ -1,0 +1,1952 @@
+Word2Vec Training Log
+==============================
+
+Step 200:
+Loss: 5.9800
+
+Step 400:
+Loss: 3.8934
+
+Step 600:
+Loss: 3.5455
+
+Step 800:
+Loss: 3.4155
+
+Step 1000:
+Loss: 3.3520
+
+Step 1200:
+Loss: 3.3191
+
+Step 1400:
+Loss: 3.3022
+
+Step 1600:
+Loss: 3.2894
+
+Step 1800:
+Loss: 3.2832
+
+Step 2000:
+Loss: 3.2754
+
+====================
+
+Step 2000:
+king → ['edmund', 'margaret', 'athlete', 'philip', 'iii']
+paris → ['frieza', 'leopold', 'jeremy', 'erich', 'cecil']
+computer → ['interfaces', 'behavior', 'expresses', 'compilers', 'newer']
+
+====================
+
+Step 2200:
+Loss: 3.2661
+
+Step 2400:
+Loss: 3.2589
+
+Step 2600:
+Loss: 3.2480
+
+Step 2800:
+Loss: 3.2380
+
+Step 3000:
+Loss: 3.2202
+
+Step 3200:
+Loss: 3.2036
+
+Step 3400:
+Loss: 3.1840
+
+Step 3600:
+Loss: 3.1664
+
+Step 3800:
+Loss: 3.1459
+
+Step 4000:
+Loss: 3.1229
+
+====================
+
+Step 4000:
+king → ['queen', 'xiv', 'alexander', 'nephew', 'eldest']
+paris → ['worcester', 'reuben', 'delano', 'turin', 'edith']
+computer → ['amiga', 'firewire', 'gui', 'solaris', 'computers']
+
+====================
+
+Step 4200:
+Loss: 3.1070
+
+Step 4400:
+Loss: 3.0843
+
+Step 4600:
+Loss: 3.0680
+
+Step 4800:
+Loss: 3.0533
+
+Step 5000:
+Loss: 3.0404
+
+Step 5200:
+Loss: 3.0237
+
+Step 5400:
+Loss: 3.0104
+
+Step 5600:
+Loss: 2.9974
+
+Step 5800:
+Loss: 2.9933
+
+Step 6000:
+Loss: 2.9805
+
+====================
+
+Step 6000:
+king → ['iv', 'vii', 'maximilian', 'castile', 'emperor']
+paris → ['cosimo', 'toulouse', 'croix', 'huguenot', 'bonaparte']
+computer → ['computing', 'spreadsheet', 'symbolics', 'gimp', 'graphics']
+
+====================
+
+Step 6200:
+Loss: 2.9643
+
+Step 6400:
+Loss: 2.9646
+
+Step 6600:
+Loss: 2.9509
+
+Step 6800:
+Loss: 2.9412
+
+Step 7000:
+Loss: 2.9391
+
+Step 7200:
+Loss: 2.9300
+
+Step 7400:
+Loss: 2.9256
+
+Step 7600:
+Loss: 2.9174
+
+Step 7800:
+Loss: 2.9130
+
+Step 8000:
+Loss: 2.9033
+
+====================
+
+Step 8000:
+king → ['vii', 'palaeologus', 'matilda', 'betrothed', 'valois']
+paris → ['vend', 'strasbourg', 'cosimo', 'provence', 'duc']
+computer → ['vba', 'bootstrap', 'dijkstra', 'windowing', 'computers']
+
+====================
+
+Step 8200:
+Loss: 2.8991
+
+Step 8400:
+Loss: 2.8961
+
+Step 8600:
+Loss: 2.8918
+
+Step 8800:
+Loss: 2.8851
+
+Step 9000:
+Loss: 2.8825
+
+Step 9200:
+Loss: 2.8762
+
+Step 9400:
+Loss: 2.8694
+
+Step 9600:
+Loss: 2.8671
+
+Step 9800:
+Loss: 2.8643
+
+Step 10000:
+Loss: 2.8616
+
+====================
+
+Step 10000:
+king → ['baasha', 'marries', 'vii', 'son', 'matilda']
+paris → ['nantes', 'vive', 'corbusier', 'jeanneret', 'seine']
+computer → ['calculators', 'bootstrap', 'computers', 'computing', 'vba']
+
+====================
+
+Step 10200:
+Loss: 2.8614
+
+Step 10400:
+Loss: 2.8561
+
+Step 10600:
+Loss: 2.8537
+
+Step 10800:
+Loss: 2.8502
+
+Step 11000:
+Loss: 2.8437
+
+Step 11200:
+Loss: 2.8413
+
+Step 11400:
+Loss: 2.8419
+
+Step 11600:
+Loss: 2.8399
+
+Step 11800:
+Loss: 2.8380
+
+Step 12000:
+Loss: 2.8358
+
+====================
+
+Step 12000:
+king → ['consort', 'queen', 'jehoahaz', 'dunkeld', 'baasha']
+paris → ['rature', 'corbusier', 'ecole', 'jeanneret', 'du']
+computer → ['computers', 'peripherals', 'ipod', 'hardware', 'trs']
+
+====================
+
+Step 12200:
+Loss: 2.8319
+
+Step 12400:
+Loss: 2.8267
+
+Step 12600:
+Loss: 2.8232
+
+Step 12800:
+Loss: 2.8261
+
+Step 13000:
+Loss: 2.8202
+
+Step 13200:
+Loss: 2.8188
+
+Step 13400:
+Loss: 2.8180
+
+Step 13600:
+Loss: 2.8158
+
+Step 13800:
+Loss: 2.8177
+
+Step 14000:
+Loss: 2.8103
+
+====================
+
+Step 14000:
+king → ['amalric', 'artaxerxes', 'fulk', 'lusignan', 'abdication']
+paris → ['recherche', 'linguistique', 'ecole', 'rieure', 'alexandre']
+computer → ['computers', 'computing', 'hardware', 'multiprocessor', 'interfaces']
+
+====================
+
+Step 14200:
+Loss: 2.8125
+
+Step 14400:
+Loss: 2.8102
+
+Step 14600:
+Loss: 2.8023
+
+Step 14800:
+Loss: 2.8074
+
+Step 15000:
+Loss: 2.8049
+
+Step 15200:
+Loss: 2.8048
+
+Step 15400:
+Loss: 2.8038
+
+Step 15600:
+Loss: 2.7992
+
+Step 15800:
+Loss: 2.8001
+
+Step 16000:
+Loss: 2.7999
+
+====================
+
+Step 16000:
+king → ['kings', 'jehoahaz', 'yorkist', 'lusignan', 'amalric']
+paris → ['france', 'du', 'jeanneret', 'restorations', 'de']
+computer → ['hardware', 'computers', 'computing', 'bootstrap', 'interfaces']
+
+====================
+
+Step 16200:
+Loss: 2.7953
+
+Step 16400:
+Loss: 2.7949
+
+Step 16600:
+Loss: 2.7885
+
+Step 16800:
+Loss: 2.7956
+
+Step 17000:
+Loss: 2.7909
+
+Step 17200:
+Loss: 2.7916
+
+Step 17400:
+Loss: 2.7887
+
+Step 17600:
+Loss: 2.7861
+
+Step 17800:
+Loss: 2.7865
+
+Step 18000:
+Loss: 2.7881
+
+====================
+
+Step 18000:
+king → ['yorkist', 'jehoahaz', 'plantagenet', 'montferrat', 'bouillon']
+paris → ['nantes', 'jeanneret', 'cimeti', 'restorations', 'grenoble']
+computer → ['hardware', 'computers', 'computing', 'workstations', 'guis']
+
+====================
+
+Step 18200:
+Loss: 2.7831
+
+Step 18400:
+Loss: 2.7858
+
+Step 18600:
+Loss: 2.7828
+
+Step 18800:
+Loss: 2.7869
+
+Step 19000:
+Loss: 2.7861
+
+Step 19200:
+Loss: 2.7770
+
+Step 19400:
+Loss: 2.7795
+
+Step 19600:
+Loss: 2.7796
+
+Step 19800:
+Loss: 2.7762
+
+Step 20000:
+Loss: 2.7756
+
+====================
+
+Step 20000:
+king → ['capetian', 'plantagenet', 'yorkist', 'marries', 'montferrat']
+paris → ['cimeti', 'nantes', 'jeanneret', 'grenoble', 'bruxelles']
+computer → ['hardware', 'computing', 'workstations', 'computers', 'interfaces']
+
+====================
+
+Step 20200:
+Loss: 2.7742
+
+Step 20400:
+Loss: 2.7744
+
+Step 20600:
+Loss: 2.7719
+
+Step 20800:
+Loss: 2.7730
+
+Step 21000:
+Loss: 2.7726
+
+Step 21200:
+Loss: 2.7660
+
+Step 21400:
+Loss: 2.7700
+
+Step 21600:
+Loss: 2.7688
+
+Step 21800:
+Loss: 2.7686
+
+Step 22000:
+Loss: 2.7644
+
+====================
+
+Step 22000:
+king → ['capetian', 'montferrat', 'plantagenet', 'valois', 'yorkist']
+paris → ['cimeti', 'bruxelles', 'grenoble', 'jeanneret', 'rature']
+computer → ['bootstrap', 'computers', 'interfaces', 'spreadsheet', 'visicalc']
+
+====================
+
+Step 22200:
+Loss: 2.7707
+
+Step 22400:
+Loss: 2.7650
+
+Step 22600:
+Loss: 2.7639
+
+Step 22800:
+Loss: 2.7674
+
+Step 23000:
+Loss: 2.7659
+
+Step 23200:
+Loss: 2.7662
+
+Step 23400:
+Loss: 2.7668
+
+Step 23600:
+Loss: 2.7583
+
+Step 23800:
+Loss: 2.7585
+
+Step 24000:
+Loss: 2.7644
+
+====================
+
+Step 24000:
+king → ['montferrat', 'capetian', 'yorkist', 'bothwell', 'plantagenet']
+paris → ['grenoble', 'bruxelles', 'cimeti', 'biblioth', 'rieure']
+computer → ['computers', 'hardware', 'workstations', 'visicalc', 'virtualization']
+
+====================
+
+Step 24200:
+Loss: 2.7622
+
+Step 24400:
+Loss: 2.7602
+
+Step 24600:
+Loss: 2.7620
+
+Step 24800:
+Loss: 2.7671
+
+Step 25000:
+Loss: 2.7598
+
+Step 25200:
+Loss: 2.7559
+
+Step 25400:
+Loss: 2.7601
+
+Step 25600:
+Loss: 2.7577
+
+Step 25800:
+Loss: 2.7557
+
+Step 26000:
+Loss: 2.7540
+
+====================
+
+Step 26000:
+king → ['montferrat', 'confessor', 'pretender', 'plantagenet', 'haakon']
+paris → ['cimeti', 'grenoble', 'bruxelles', 'rieure', 'parisian']
+computer → ['computers', 'hardware', 'interfaces', 'retrieval', 'addressable']
+
+====================
+
+Step 26200:
+Loss: 2.7580
+
+Step 26400:
+Loss: 2.7608
+
+Step 26600:
+Loss: 2.7576
+
+Step 26800:
+Loss: 2.7590
+
+Step 27000:
+Loss: 2.7553
+
+Step 27200:
+Loss: 2.7542
+
+Step 27400:
+Loss: 2.7550
+
+Step 27600:
+Loss: 2.7501
+
+Step 27800:
+Loss: 2.7528
+
+Step 28000:
+Loss: 2.7535
+
+====================
+
+Step 28000:
+king → ['montferrat', 'capetian', 'pretender', 'yorkist', 'marries']
+paris → ['cimeti', 'montparnasse', 'rieure', 'gaulle', 'grenoble']
+computer → ['computers', 'hardware', 'computing', 'reconfigurable', 'interfaces']
+
+====================
+
+Step 28200:
+Loss: 2.7534
+
+Step 28400:
+Loss: 2.7539
+
+Step 28600:
+Loss: 2.7473
+
+Step 28800:
+Loss: 2.7528
+
+Step 29000:
+Loss: 2.7463
+
+Step 29200:
+Loss: 2.7534
+
+Step 29400:
+Loss: 2.7455
+
+Step 29600:
+Loss: 2.7489
+
+Step 29800:
+Loss: 2.7500
+
+Step 30000:
+Loss: 2.7520
+
+====================
+
+Step 30000:
+king → ['melisende', 'montferrat', 'lothair', 'capetian', 'yorkist']
+paris → ['cimeti', 'france', 'bruxelles', 'rieure', 'polytechnique']
+computer → ['computers', 'hardware', 'workstations', 'microcomputer', 'computing']
+
+====================
+
+Step 30200:
+Loss: 2.7452
+
+Step 30400:
+Loss: 2.7494
+
+Step 30600:
+Loss: 2.7467
+
+Step 30800:
+Loss: 2.7470
+
+Step 31000:
+Loss: 2.7493
+
+Step 31200:
+Loss: 2.7459
+
+Step 31400:
+Loss: 2.7526
+
+Step 31600:
+Loss: 2.7482
+
+Step 31800:
+Loss: 2.6660
+
+Step 32000:
+Loss: 2.6557
+
+====================
+
+Step 32000:
+king → ['montferrat', 'capetian', 'jehoahaz', 'confessor', 'lothair']
+paris → ['cimeti', 'henri', 'montparnasse', 'gide', 'delacroix']
+computer → ['computers', 'hardware', 'interfaces', 'addressable', 'computing']
+
+====================
+
+Step 32200:
+Loss: 2.6631
+
+Step 32400:
+Loss: 2.6603
+
+Step 32600:
+Loss: 2.6668
+
+Step 32800:
+Loss: 2.6635
+
+Step 33000:
+Loss: 2.6661
+
+Step 33200:
+Loss: 2.6713
+
+Step 33400:
+Loss: 2.6714
+
+Step 33600:
+Loss: 2.6699
+
+Step 33800:
+Loss: 2.6674
+
+Step 34000:
+Loss: 2.6713
+
+====================
+
+Step 34000:
+king → ['montferrat', 'offa', 'jehoahaz', 'capetian', 'haakon']
+paris → ['cimeti', 'montparnasse', 'fondation', 'bruxelles', 'delacroix']
+computer → ['computers', 'computing', 'hardware', 'addressable', 'machines']
+
+====================
+
+Step 34200:
+Loss: 2.6729
+
+Step 34400:
+Loss: 2.6751
+
+Step 34600:
+Loss: 2.6767
+
+Step 34800:
+Loss: 2.6750
+
+Step 35000:
+Loss: 2.6773
+
+Step 35200:
+Loss: 2.6778
+
+Step 35400:
+Loss: 2.6782
+
+Step 35600:
+Loss: 2.6853
+
+Step 35800:
+Loss: 2.6833
+
+Step 36000:
+Loss: 2.6828
+
+====================
+
+Step 36000:
+king → ['montferrat', 'jehoahaz', 'plantagenet', 'eustace', 'iii']
+paris → ['nantes', 'cimeti', 'marie', 'gide', 'panth']
+computer → ['computers', 'hardware', 'computing', 'addressable', 'interfaces']
+
+====================
+
+Step 36200:
+Loss: 2.6845
+
+Step 36400:
+Loss: 2.6805
+
+Step 36600:
+Loss: 2.6843
+
+Step 36800:
+Loss: 2.6854
+
+Step 37000:
+Loss: 2.6866
+
+Step 37200:
+Loss: 2.6875
+
+Step 37400:
+Loss: 2.6847
+
+Step 37600:
+Loss: 2.6870
+
+Step 37800:
+Loss: 2.6849
+
+Step 38000:
+Loss: 2.6872
+
+====================
+
+Step 38000:
+king → ['montferrat', 'fealty', 'eustace', 'confessor', 'offa']
+paris → ['cimeti', 'nantes', 'fondation', 'gide', 'bruxelles']
+computer → ['computers', 'hardware', 'computing', 'addressable', 'interfaces']
+
+====================
+
+Step 38200:
+Loss: 2.6867
+
+Step 38400:
+Loss: 2.6890
+
+Step 38600:
+Loss: 2.6936
+
+Step 38800:
+Loss: 2.6922
+
+Step 39000:
+Loss: 2.6906
+
+Step 39200:
+Loss: 2.6911
+
+Step 39400:
+Loss: 2.6929
+
+Step 39600:
+Loss: 2.6918
+
+Step 39800:
+Loss: 2.6947
+
+Step 40000:
+Loss: 2.6934
+
+====================
+
+Step 40000:
+king → ['montferrat', 'vii', 'kings', 'yorkist', 'plantagenet']
+paris → ['cimeti', 'lachaise', 'biblioth', 'nantes', 'montparnasse']
+computer → ['computers', 'hardware', 'computing', 'interfaces', 'software']
+
+====================
+
+Step 40200:
+Loss: 2.6930
+
+Step 40400:
+Loss: 2.6976
+
+Step 40600:
+Loss: 2.6958
+
+Step 40800:
+Loss: 2.6953
+
+Step 41000:
+Loss: 2.6889
+
+Step 41200:
+Loss: 2.6989
+
+Step 41400:
+Loss: 2.6962
+
+Step 41600:
+Loss: 2.7007
+
+Step 41800:
+Loss: 2.6946
+
+Step 42000:
+Loss: 2.6958
+
+====================
+
+Step 42000:
+king → ['montferrat', 'plantagenet', 'melisende', 'theodoric', 'eustace']
+paris → ['cimeti', 'grenoble', 'nantes', 'biblioth', 'montparnasse']
+computer → ['computers', 'computing', 'hardware', 'software', 'programmed']
+
+====================
+
+Step 42200:
+Loss: 2.6957
+
+Step 42400:
+Loss: 2.6962
+
+Step 42600:
+Loss: 2.6994
+
+Step 42800:
+Loss: 2.7049
+
+Step 43000:
+Loss: 2.6969
+
+Step 43200:
+Loss: 2.6996
+
+Step 43400:
+Loss: 2.7013
+
+Step 43600:
+Loss: 2.6993
+
+Step 43800:
+Loss: 2.6986
+
+Step 44000:
+Loss: 2.7020
+
+====================
+
+Step 44000:
+king → ['kings', 'capetian', 'vii', 'montferrat', 'braganza']
+paris → ['cimeti', 'biblioth', 'fondation', 'montparnasse', 'grenoble']
+computer → ['hardware', 'computing', 'computers', 'reconfigurable', 'addressable']
+
+====================
+
+Step 44200:
+Loss: 2.6948
+
+Step 44400:
+Loss: 2.7038
+
+Step 44600:
+Loss: 2.7035
+
+Step 44800:
+Loss: 2.7068
+
+Step 45000:
+Loss: 2.6997
+
+Step 45200:
+Loss: 2.6995
+
+Step 45400:
+Loss: 2.7006
+
+Step 45600:
+Loss: 2.7054
+
+Step 45800:
+Loss: 2.6986
+
+Step 46000:
+Loss: 2.7053
+
+====================
+
+Step 46000:
+king → ['eustace', 'valdemar', 'capetian', 'pretender', 'kings']
+paris → ['cimeti', 'biblioth', 'montparnasse', 'le', 'grenoble']
+computer → ['computers', 'computing', 'software', 'hardware', 'machines']
+
+====================
+
+Step 46200:
+Loss: 2.7042
+
+Step 46400:
+Loss: 2.7018
+
+Step 46600:
+Loss: 2.7053
+
+Step 46800:
+Loss: 2.7040
+
+Step 47000:
+Loss: 2.7032
+
+Step 47200:
+Loss: 2.7016
+
+Step 47400:
+Loss: 2.7025
+
+Step 47600:
+Loss: 2.6969
+
+Step 47800:
+Loss: 2.7051
+
+Step 48000:
+Loss: 2.7020
+
+====================
+
+Step 48000:
+king → ['montferrat', 'eustace', 'capetian', 'reigned', 'ibelin']
+paris → ['cimeti', 'biblioth', 'montparnasse', 'universelle', 'fondation']
+computer → ['computers', 'hardware', 'computing', 'microcomputers', 'software']
+
+====================
+
+Step 48200:
+Loss: 2.7080
+
+Step 48400:
+Loss: 2.7025
+
+Step 48600:
+Loss: 2.7066
+
+Step 48800:
+Loss: 2.7053
+
+Step 49000:
+Loss: 2.7089
+
+Step 49200:
+Loss: 2.7058
+
+Step 49400:
+Loss: 2.7064
+
+Step 49600:
+Loss: 2.7047
+
+Step 49800:
+Loss: 2.7060
+
+Step 50000:
+Loss: 2.7059
+
+====================
+
+Step 50000:
+king → ['montferrat', 'reigned', 'capetian', 'valois', 'lusignan']
+paris → ['cimeti', 'fondation', 'biblioth', 'montparnasse', 'rieure']
+computer → ['computing', 'computers', 'hardware', 'microcomputers', 'software']
+
+====================
+
+Step 50200:
+Loss: 2.7054
+
+Step 50400:
+Loss: 2.7063
+
+Step 50600:
+Loss: 2.6970
+
+Step 50800:
+Loss: 2.7042
+
+Step 51000:
+Loss: 2.7056
+
+Step 51200:
+Loss: 2.7047
+
+Step 51400:
+Loss: 2.7016
+
+Step 51600:
+Loss: 2.7047
+
+Step 51800:
+Loss: 2.7060
+
+Step 52000:
+Loss: 2.7013
+
+====================
+
+Step 52000:
+king → ['montferrat', 'valois', 'philippa', 'capetian', 'vii']
+paris → ['cimeti', 'montparnasse', 'normale', 'biblioth', 'lachaise']
+computer → ['computers', 'computing', 'hardware', 'microcomputers', 'addressable']
+
+====================
+
+Step 52200:
+Loss: 2.7105
+
+Step 52400:
+Loss: 2.7059
+
+Step 52600:
+Loss: 2.7102
+
+Step 52800:
+Loss: 2.7031
+
+Step 53000:
+Loss: 2.7083
+
+Step 53200:
+Loss: 2.7084
+
+Step 53400:
+Loss: 2.7069
+
+Step 53600:
+Loss: 2.7086
+
+Step 53800:
+Loss: 2.7060
+
+Step 54000:
+Loss: 2.7053
+
+====================
+
+Step 54000:
+king → ['montferrat', 'prince', 'throne', 'vii', 'philippa']
+paris → ['cimeti', 'montparnasse', 'lachaise', 'biblioth', 'france']
+computer → ['computers', 'hardware', 'computing', 'microcomputers', 'microcomputer']
+
+====================
+
+Step 54200:
+Loss: 2.7110
+
+Step 54400:
+Loss: 2.7052
+
+Step 54600:
+Loss: 2.7046
+
+Step 54800:
+Loss: 2.7119
+
+Step 55000:
+Loss: 2.7099
+
+Step 55200:
+Loss: 2.7152
+
+Step 55400:
+Loss: 2.7070
+
+Step 55600:
+Loss: 2.7060
+
+Step 55800:
+Loss: 2.7102
+
+Step 56000:
+Loss: 2.7084
+
+====================
+
+Step 56000:
+king → ['montferrat', 'vii', 'philippa', 'melisende', 'throne']
+paris → ['cimeti', 'montparnasse', 'lachaise', 'panth', 'biblioth']
+computer → ['computers', 'hardware', 'computing', 'microcomputers', 'microcomputer']
+
+====================
+
+Step 56200:
+Loss: 2.7086
+
+Step 56400:
+Loss: 2.7110
+
+Step 56600:
+Loss: 2.7112
+
+Step 56800:
+Loss: 2.7103
+
+Step 57000:
+Loss: 2.7080
+
+Step 57200:
+Loss: 2.7068
+
+Step 57400:
+Loss: 2.7148
+
+Step 57600:
+Loss: 2.7138
+
+Step 57800:
+Loss: 2.7081
+
+Step 58000:
+Loss: 2.7122
+
+====================
+
+Step 58000:
+king → ['montferrat', 'dunkeld', 'iii', 'marries', 'throne']
+paris → ['cimeti', 'france', 'biblioth', 'bruxelles', 'fondation']
+computer → ['computers', 'computing', 'hardware', 'automation', 'graphics']
+
+====================
+
+Step 58200:
+Loss: 2.7103
+
+Step 58400:
+Loss: 2.7112
+
+Step 58600:
+Loss: 2.7064
+
+Step 58800:
+Loss: 2.7096
+
+Step 59000:
+Loss: 2.7119
+
+Step 59200:
+Loss: 2.7089
+
+Step 59400:
+Loss: 2.7072
+
+Step 59600:
+Loss: 2.7180
+
+Step 59800:
+Loss: 2.7093
+
+Step 60000:
+Loss: 2.7130
+
+====================
+
+Step 60000:
+king → ['montferrat', 'dunkeld', 'kings', 'marries', 'vii']
+paris → ['bruxelles', 'cimeti', 'biblioth', 'fondation', 'france']
+computer → ['computers', 'hardware', 'computing', 'graphics', 'software']
+
+====================
+
+Step 60200:
+Loss: 2.7109
+
+Step 60400:
+Loss: 2.7119
+
+Step 60600:
+Loss: 2.7080
+
+Step 60800:
+Loss: 2.7106
+
+Step 61000:
+Loss: 2.7129
+
+Step 61200:
+Loss: 2.7102
+
+Step 61400:
+Loss: 2.7141
+
+Step 61600:
+Loss: 2.7148
+
+Step 61800:
+Loss: 2.7111
+
+Step 62000:
+Loss: 2.7081
+
+====================
+
+Step 62000:
+king → ['montferrat', 'pretender', 'dunkeld', 'jehoahaz', 'kings']
+paris → ['cimeti', 'biblioth', 'seine', 'lachaise', 'bruxelles']
+computer → ['computers', 'hardware', 'computing', 'graphics', 'compuserve']
+
+====================
+
+Step 62200:
+Loss: 2.7122
+
+Step 62400:
+Loss: 2.7126
+
+Step 62600:
+Loss: 2.7155
+
+Step 62800:
+Loss: 2.7151
+
+Step 63000:
+Loss: 2.7139
+
+Step 63200:
+Loss: 2.7132
+
+Step 63400:
+Loss: 2.6123
+
+Step 63600:
+Loss: 2.5998
+
+Step 63800:
+Loss: 2.6029
+
+Step 64000:
+Loss: 2.6056
+
+====================
+
+Step 64000:
+king → ['kings', 'montferrat', 'dunkeld', 'fealty', 'vii']
+paris → ['cimeti', 'lachaise', 'biblioth', 'henri', 'fondation']
+computer → ['computing', 'computers', 'hardware', 'software', 'interface']
+
+====================
+
+Step 64200:
+Loss: 2.6107
+
+Step 64400:
+Loss: 2.6087
+
+Step 64600:
+Loss: 2.6107
+
+Step 64800:
+Loss: 2.6151
+
+Step 65000:
+Loss: 2.6171
+
+Step 65200:
+Loss: 2.6189
+
+Step 65400:
+Loss: 2.6211
+
+Step 65600:
+Loss: 2.6236
+
+Step 65800:
+Loss: 2.6180
+
+Step 66000:
+Loss: 2.6238
+
+====================
+
+Step 66000:
+king → ['kings', 'fealty', 'pretender', 'dunkeld', 'eustace']
+paris → ['cimeti', 'normale', 'lachaise', 'rieure', 'seine']
+computer → ['computing', 'computers', 'hardware', 'graphics', 'compuserve']
+
+====================
+
+Step 66200:
+Loss: 2.6272
+
+Step 66400:
+Loss: 2.6328
+
+Step 66600:
+Loss: 2.6331
+
+Step 66800:
+Loss: 2.6307
+
+Step 67000:
+Loss: 2.6333
+
+Step 67200:
+Loss: 2.6371
+
+Step 67400:
+Loss: 2.6385
+
+Step 67600:
+Loss: 2.6420
+
+Step 67800:
+Loss: 2.6383
+
+Step 68000:
+Loss: 2.6396
+
+====================
+
+Step 68000:
+king → ['fealty', 'jehoahaz', 'kings', 'dunkeld', 'queen']
+paris → ['lachaise', 'cimeti', 'germain', 'seine', 'universelle']
+computer → ['computers', 'computing', 'hardware', 'interface', 'hardwired']
+
+====================
+
+Step 68200:
+Loss: 2.6384
+
+Step 68400:
+Loss: 2.6384
+
+Step 68600:
+Loss: 2.6475
+
+Step 68800:
+Loss: 2.6426
+
+Step 69000:
+Loss: 2.6462
+
+Step 69200:
+Loss: 2.6510
+
+Step 69400:
+Loss: 2.6446
+
+Step 69600:
+Loss: 2.6458
+
+Step 69800:
+Loss: 2.6485
+
+Step 70000:
+Loss: 2.6506
+
+====================
+
+Step 70000:
+king → ['kings', 'dunkeld', 'queen', 'eustace', 'pretender']
+paris → ['france', 'normale', 'henri', 'rieure', 'cimeti']
+computer → ['computers', 'hardware', 'interface', 'computing', 'hardwired']
+
+====================
+
+Step 70200:
+Loss: 2.6528
+
+Step 70400:
+Loss: 2.6486
+
+Step 70600:
+Loss: 2.6514
+
+Step 70800:
+Loss: 2.6529
+
+Step 71000:
+Loss: 2.6527
+
+Step 71200:
+Loss: 2.6540
+
+Step 71400:
+Loss: 2.6621
+
+Step 71600:
+Loss: 2.6524
+
+Step 71800:
+Loss: 2.6566
+
+Step 72000:
+Loss: 2.6561
+
+====================
+
+Step 72000:
+king → ['kings', 'son', 'dunkeld', 'jezebel', 'jehoahaz']
+paris → ['cimeti', 'lachaise', 'panth', 'enfant', 'le']
+computer → ['computers', 'hardware', 'computing', 'interface', 'hardwired']
+
+====================
+
+Step 72200:
+Loss: 2.6589
+
+Step 72400:
+Loss: 2.6582
+
+Step 72600:
+Loss: 2.6601
+
+Step 72800:
+Loss: 2.6577
+
+Step 73000:
+Loss: 2.6666
+
+Step 73200:
+Loss: 2.6538
+
+Step 73400:
+Loss: 2.6604
+
+Step 73600:
+Loss: 2.6642
+
+Step 73800:
+Loss: 2.6632
+
+Step 74000:
+Loss: 2.6642
+
+====================
+
+Step 74000:
+king → ['throne', 'pretender', 'dunkeld', 'fealty', 'son']
+paris → ['cimeti', 'le', 'lachaise', 'france', 'bruxelles']
+computer → ['computers', 'hardware', 'computing', 'workstations', 'software']
+
+====================
+
+Step 74200:
+Loss: 2.6689
+
+Step 74400:
+Loss: 2.6640
+
+Step 74600:
+Loss: 2.6652
+
+Step 74800:
+Loss: 2.6717
+
+Step 75000:
+Loss: 2.6679
+
+Step 75200:
+Loss: 2.6664
+
+Step 75400:
+Loss: 2.6659
+
+Step 75600:
+Loss: 2.6697
+
+Step 75800:
+Loss: 2.6671
+
+Step 76000:
+Loss: 2.6693
+
+====================
+
+Step 76000:
+king → ['fealty', 'kings', 'queen', 'throne', 'pretender']
+paris → ['france', 'le', 'cimeti', 'lachaise', 'universelle']
+computer → ['computers', 'hardware', 'computing', 'workstations', 'software']
+
+====================
+
+Step 76200:
+Loss: 2.6693
+
+Step 76400:
+Loss: 2.6647
+
+Step 76600:
+Loss: 2.6689
+
+Step 76800:
+Loss: 2.6748
+
+Step 77000:
+Loss: 2.6674
+
+Step 77200:
+Loss: 2.6715
+
+Step 77400:
+Loss: 2.6758
+
+Step 77600:
+Loss: 2.6741
+
+Step 77800:
+Loss: 2.6761
+
+Step 78000:
+Loss: 2.6766
+
+====================
+
+Step 78000:
+king → ['son', 'vii', 'iii', 'kings', 'prince']
+paris → ['le', 'lachaise', 'cimeti', 'fontainebleau', 'universelle']
+computer → ['computers', 'computing', 'hardware', 'workstations', 'programmed']
+
+====================
+
+Step 78200:
+Loss: 2.6728
+
+Step 78400:
+Loss: 2.6743
+
+Step 78600:
+Loss: 2.6776
+
+Step 78800:
+Loss: 2.6741
+
+Step 79000:
+Loss: 2.6754
+
+Step 79200:
+Loss: 2.6766
+
+Step 79400:
+Loss: 2.6724
+
+Step 79600:
+Loss: 2.6803
+
+Step 79800:
+Loss: 2.6825
+
+Step 80000:
+Loss: 2.6788
+
+====================
+
+Step 80000:
+king → ['son', 'vii', 'queen', 'montferrat', 'kings']
+paris → ['cimeti', 'lachaise', 'le', 'france', 'enfant']
+computer → ['computers', 'computing', 'hardware', 'microcomputer', 'workstations']
+
+====================
+
+Step 80200:
+Loss: 2.6782
+
+Step 80400:
+Loss: 2.6762
+
+Step 80600:
+Loss: 2.6819
+
+Step 80800:
+Loss: 2.6797
+
+Step 81000:
+Loss: 2.6773
+
+Step 81200:
+Loss: 2.6812
+
+Step 81400:
+Loss: 2.6864
+
+Step 81600:
+Loss: 2.6838
+
+Step 81800:
+Loss: 2.6802
+
+Step 82000:
+Loss: 2.6815
+
+====================
+
+Step 82000:
+king → ['vii', 'pretender', 'kings', 'son', 'throne']
+paris → ['cimeti', 'france', 'lachaise', 'enfant', 'brussels']
+computer → ['computers', 'computing', 'hardware', 'workstations', 'interfaces']
+
+====================
+
+Step 82200:
+Loss: 2.6819
+
+Step 82400:
+Loss: 2.6800
+
+Step 82600:
+Loss: 2.6855
+
+Step 82800:
+Loss: 2.6852
+
+Step 83000:
+Loss: 2.6823
+
+Step 83200:
+Loss: 2.6856
+
+Step 83400:
+Loss: 2.6848
+
+Step 83600:
+Loss: 2.6808
+
+Step 83800:
+Loss: 2.6821
+
+Step 84000:
+Loss: 2.6808
+
+====================
+
+Step 84000:
+king → ['vii', 'kings', 'throne', 'succeeded', 'dunkeld']
+paris → ['france', 'cimeti', 'lachaise', 'le', 'antonin']
+computer → ['computing', 'computers', 'graphics', 'hardware', 'interface']
+
+====================
+
+Step 84200:
+Loss: 2.6853
+
+Step 84400:
+Loss: 2.6853
+
+Step 84600:
+Loss: 2.6841
+
+Step 84800:
+Loss: 2.6813
+
+Step 85000:
+Loss: 2.6844
+
+Step 85200:
+Loss: 2.6853
+
+Step 85400:
+Loss: 2.6888
+
+Step 85600:
+Loss: 2.6833
+
+Step 85800:
+Loss: 2.6880
+
+Step 86000:
+Loss: 2.6887
+
+====================
+
+Step 86000:
+king → ['kings', 'vii', 'prince', 'throne', 'son']
+paris → ['cimeti', 'lachaise', 'le', 'france', 'georges']
+computer → ['computers', 'computing', 'hardware', 'software', 'microcomputer']
+
+====================
+
+Step 86200:
+Loss: 2.6904
+
+Step 86400:
+Loss: 2.6867
+
+Step 86600:
+Loss: 2.6849
+
+Step 86800:
+Loss: 2.6855
+
+Step 87000:
+Loss: 2.6898
+
+Step 87200:
+Loss: 2.6899
+
+Step 87400:
+Loss: 2.6852
+
+Step 87600:
+Loss: 2.6904
+
+Step 87800:
+Loss: 2.6844
+
+Step 88000:
+Loss: 2.6886
+
+====================
+
+Step 88000:
+king → ['kings', 'vii', 'throne', 'jehoahaz', 'montferrat']
+paris → ['france', 'bruxelles', 'moderne', 'rieure', 'le']
+computer → ['computers', 'computing', 'software', 'hardware', 'interface']
+
+====================
+
+Step 88200:
+Loss: 2.6853
+
+Step 88400:
+Loss: 2.6905
+
+Step 88600:
+Loss: 2.6861
+
+Step 88800:
+Loss: 2.6912
+
+Step 89000:
+Loss: 2.6923
+
+Step 89200:
+Loss: 2.6935
+
+Step 89400:
+Loss: 2.6870
+
+Step 89600:
+Loss: 2.6880
+
+Step 89800:
+Loss: 2.6857
+
+Step 90000:
+Loss: 2.6937
+
+====================
+
+Step 90000:
+king → ['son', 'kings', 'vii', 'montferrat', 'jehoahaz']
+paris → ['le', 'bruxelles', 'moderne', 'cimeti', 'rieure']
+computer → ['computing', 'computers', 'hardware', 'software', 'interface']
+
+====================
+
+Step 90200:
+Loss: 2.6917
+
+Step 90400:
+Loss: 2.6931
+
+Step 90600:
+Loss: 2.6983
+
+Step 90800:
+Loss: 2.6916
+
+Step 91000:
+Loss: 2.6944
+
+Step 91200:
+Loss: 2.6923
+
+Step 91400:
+Loss: 2.6902
+
+Step 91600:
+Loss: 2.6929
+
+Step 91800:
+Loss: 2.6920
+
+Step 92000:
+Loss: 2.6904
+
+====================
+
+Step 92000:
+king → ['son', 'henry', 'kings', 'prince', 'vii']
+paris → ['bruxelles', 'henri', 'france', 'french', 'le']
+computer → ['computing', 'computers', 'hardware', 'software', 'interface']
+
+====================
+
+Step 92200:
+Loss: 2.6959
+
+Step 92400:
+Loss: 2.6944
+
+Step 92600:
+Loss: 2.6979
+
+Step 92800:
+Loss: 2.6956
+
+Step 93000:
+Loss: 2.7007
+
+Step 93200:
+Loss: 2.6917
+
+Step 93400:
+Loss: 2.6922
+
+Step 93600:
+Loss: 2.6913
+
+Step 93800:
+Loss: 2.6925
+
+Step 94000:
+Loss: 2.6906
+
+====================
+
+Step 94000:
+king → ['son', 'kings', 'vii', 'montferrat', 'prince']
+paris → ['seine', 'bruxelles', 'france', 'lachaise', 'cimeti']
+computer → ['computing', 'computers', 'hardware', 'software', 'interface']
+
+====================
+
+Step 94200:
+Loss: 2.6938
+
+Step 94400:
+Loss: 2.6980
+
+Step 94600:
+Loss: 2.6984
+
+Step 94800:
+Loss: 2.6930
+
+Step 95000:
+Loss: 2.5996
+
+Step 95200:
+Loss: 2.5788
+
+Step 95400:
+Loss: 2.5858
+
+Step 95600:
+Loss: 2.5875
+
+Step 95800:
+Loss: 2.5927
+
+Step 96000:
+Loss: 2.5933
+
+====================
+
+Step 96000:
+king → ['vii', 'succeeded', 'montferrat', 'kings', 'son']
+paris → ['france', 'henri', 'eug', 'bruxelles', 'seine']
+computer → ['computing', 'computers', 'hardware', 'software', 'microcomputer']
+
+====================
+
+Step 96200:
+Loss: 2.5995
+
+Step 96400:
+Loss: 2.5954
+
+Step 96600:
+Loss: 2.5971
+
+Step 96800:
+Loss: 2.6009
+
+Step 97000:
+Loss: 2.6004
+
+Step 97200:
+Loss: 2.6028
+
+Step 97400:
+Loss: 2.6057
+
+Step 97600:
+Loss: 2.6083
+
+Step 97800:
+Loss: 2.6114
+
+Step 98000:
+Loss: 2.6169
+
+====================
+
+Step 98000:
+king → ['kings', 'vii', 'montferrat', 'son', 'crowned']
+paris → ['france', 'cimeti', 'seine', 'eug', 'montparnasse']
+computer → ['computing', 'computers', 'software', 'hardware', 'microcomputer']
+
+====================
+
+Step 98200:
+Loss: 2.6124
+
+Step 98400:
+Loss: 2.6209
+
+Step 98600:
+Loss: 2.6183
+
+Step 98800:
+Loss: 2.6215
+
+Step 99000:
+Loss: 2.6237
+
+Step 99200:
+Loss: 2.6245
+
+Step 99400:
+Loss: 2.6230
+
+Step 99600:
+Loss: 2.6232
+
+Step 99800:
+Loss: 2.6215
+
+Step 100000:
+Loss: 2.6268
+
+====================
+
+Step 100000:
+king → ['kings', 'montferrat', 'vii', 'throne', 'crowned']
+paris → ['seine', 'montparnasse', 'france', 'cimeti', 'lachaise']
+computer → ['computing', 'computers', 'hardware', 'software', 'microcomputer']
+
+====================
